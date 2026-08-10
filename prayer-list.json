@@ -1,6 +1,36 @@
 {
-  "schemaVersion": 1,
-  "publishedAt": null,
-  "requests": [],
-  "praises": []
+  "churchName": "Point Church",
+  "title": "Congregational Prayer List",
+  "publishedAt": "2026-08-10T16:49:10.554Z",
+  "isTestData": false,
+  "items": [
+    {
+      "submittedAt": "2026-08-04T12:30:59.000Z",
+      "displayName": "Stephen Tewell",
+      "request": "He needs extra help",
+      "dateLabel": "Received",
+      "requestType": "NEW"
+    },
+    {
+      "submittedAt": "2026-08-05T14:30:21.000Z",
+      "displayName": "Stephen Tewell",
+      "request": "Help",
+      "dateLabel": "Received",
+      "requestType": "NEW"
+    },
+    {
+      "submittedAt": "2026-08-05T19:13:46.000Z",
+      "displayName": "Stephen Tewell",
+      "request": "I finished the prayer process",
+      "dateLabel": "Received",
+      "requestType": "PRAISE"
+    },
+    {
+      "submittedAt": "2026-08-05T20:26:16.000Z",
+      "displayName": "Anonymous",
+      "request": "Test",
+      "dateLabel": "Received",
+      "requestType": "NEW"
+    }
+  ]
 }
