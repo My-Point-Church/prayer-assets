@@ -1,30 +1,9 @@
 {
   "churchName": "Point Church",
   "title": "Congregational Prayer List",
-  "publishedAt": "2026-08-10T17:53:48.718Z",
+  "publishedAt": "2026-08-10T20:02:23.777Z",
   "isTestData": false,
   "items": [
-    {
-      "submittedAt": "2026-08-04T12:30:59.000Z",
-      "displayName": "Stephen Tewell",
-      "request": "He needs extra help",
-      "dateLabel": "Received",
-      "requestType": "NEW"
-    },
-    {
-      "submittedAt": "2026-08-05T14:30:21.000Z",
-      "displayName": "Stephen Tewell",
-      "request": "Help",
-      "dateLabel": "Received",
-      "requestType": "NEW"
-    },
-    {
-      "submittedAt": "2026-08-05T19:13:46.000Z",
-      "displayName": "Stephen Tewell",
-      "request": "I finished the prayer process",
-      "dateLabel": "Received",
-      "requestType": "PRAISE"
-    },
     {
       "submittedAt": "2026-08-06T13:49:21.000Z",
       "displayName": "Stephen",
@@ -36,8 +15,22 @@
       "submittedAt": "2026-08-10T00:58:58.000Z",
       "displayName": "Stephen",
       "request": "Test",
-      "dateLabel": "Updated",
+      "dateLabel": "Received",
       "requestType": "UPDATE"
+    },
+    {
+      "submittedAt": "2026-08-10T15:49:32.000Z",
+      "displayName": "Anonymous",
+      "request": "New test",
+      "dateLabel": "Received",
+      "requestType": "NEW"
+    },
+    {
+      "submittedAt": "2026-08-10T16:02:33.000Z",
+      "displayName": "Anonymous",
+      "request": "Help me",
+      "dateLabel": "Received",
+      "requestType": "NEW"
     }
   ]
 }
