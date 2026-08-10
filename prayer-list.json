@@ -1,7 +1,7 @@
 {
   "churchName": "Point Church",
   "title": "Congregational Prayer List",
-  "publishedAt": "2026-08-10T16:49:10.554Z",
+  "publishedAt": "2026-08-10T17:53:48.718Z",
   "isTestData": false,
   "items": [
     {
@@ -26,11 +26,18 @@
       "requestType": "PRAISE"
     },
     {
-      "submittedAt": "2026-08-05T20:26:16.000Z",
-      "displayName": "Anonymous",
-      "request": "Test",
+      "submittedAt": "2026-08-06T13:49:21.000Z",
+      "displayName": "Stephen",
+      "request": "God is good!",
       "dateLabel": "Received",
-      "requestType": "NEW"
+      "requestType": "PRAISE"
+    },
+    {
+      "submittedAt": "2026-08-10T00:58:58.000Z",
+      "displayName": "Stephen",
+      "request": "Test",
+      "dateLabel": "Updated",
+      "requestType": "UPDATE"
     }
   ]
 }
