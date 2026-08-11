@@ -1,7 +1,7 @@
 {
   "churchName": "Point Church",
   "title": "Congregational Prayer List",
-  "publishedAt": "2026-08-11T12:56:53.204Z",
+  "publishedAt": "2026-08-11T13:44:59.513Z",
   "isTestData": false,
   "items": [
     {
@@ -59,6 +59,13 @@
       "request": "Another test",
       "dateLabel": "Updated",
       "requestType": "UPDATE"
+    },
+    {
+      "submittedAt": "2026-08-11T13:40:01.574Z",
+      "displayName": "Anonymous",
+      "request": "[SYSTEM TEST ? REMOVE AFTER VERIFICATION] Please disregard this fictional prayer request.",
+      "dateLabel": "Received",
+      "requestType": "NEW"
     }
   ]
 }
